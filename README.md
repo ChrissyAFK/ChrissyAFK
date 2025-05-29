@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **chrissyafk on discord**
 
-- 📄 Know about my experiences [ask!]()
+- 📄 Interested in my experiences and learning? [ask me!]()
 <p align="left">
 </p>
 
