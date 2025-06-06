@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Chrissy</h1>
-<h3 align="center">A passionate developer from Canada, learning software development and data science.</h3>
+<h3 align="center">A passionate developer and student from Canada, learning software development and data science.</h3>
 
 - 🌱 I’m currently learning **Java, C++, and anything I can get my hands on!**
 
