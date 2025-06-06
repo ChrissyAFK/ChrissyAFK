@@ -10,6 +10,8 @@
 - 📫 How to reach me: **chrissyafk on discord**
 
 - 📄 Interested in my experiences and learning? [ask me!]()
+
+- I use Arch Linux BTW
 <p align="left">
 </p>
 
