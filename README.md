@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Christopher!</h1>
 <h3 align="center">A passionate developer and student from Canada, learning software development and data science.</h3>
 <h2 align = "center"> Incoming student at Simon Fraser University Class of 2030 </h2>
-- 🌱 I’m currently learning **Java, C++, and anything I can get my hands on!**
+- 🌱 I’m currently learning with **C++, AI model training, and anything I can get my hands on!**
 
 - 👨‍💻 All of my projects are available down below!
 
