@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Christopher!</h1>
 <h3 align="center">A passionate developer and student from Canada, learning software development and data science.</h3>
 <h2 align = "center"> Incoming student at Simon Fraser University Class of 2030 </h2>
-<a href="www.chriss.tech">chriss.tech</a>
+<a href="https://www.chriss.tech">chriss.tech</a>
 
 - 👨‍💻 All of my projects are available down below!
 
